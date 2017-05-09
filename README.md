@@ -3,7 +3,7 @@
 ## About
 This Trello Clone to-do app is built in seven different ways to show how an application differs when utilizing various technologies.
 
-## App Verions
+## App Versions
 * [HTML](https://github.com/jamiesonbates/Trello-Clone---HTML)
 * [HTML + CSS + jQuery](https://github.com/jamiesonbates/Trello-Clone---jQuery)
 * [HTML + CSS + jQuery + Handlebars + Express + Knex](https://github.com/jamiesonbates/Trello-Clone---Express-Knex-HBRS)
